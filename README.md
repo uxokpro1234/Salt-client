@@ -14,7 +14,7 @@
 
 # About
 
-Veil is a custom Minecraft Forge 1.8.9 utility client/framework written entirely in Java.
+Salt is a custom Minecraft Forge 1.8.9 utility client/framework written entirely in Java.
 
 The project started as an experimental client and was later completely rewritten with:
 - a modular architecture
