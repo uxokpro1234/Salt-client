@@ -17,8 +17,6 @@ public class Op2525 extends Module {
         super("Op2525", Category.PLAYER, Keyboard.KEY_NONE);
     }
 
-
-
     @SubscribeEvent
     public void onEntityJoinWorld(EntityJoinWorldEvent event) {
         if (event.entity instanceof EntityArrow && ((EntityArrow) event.entity).shootingEntity == mc.thePlayer) {
@@ -32,6 +30,7 @@ public class Op2525 extends Module {
 
         }
     }
+    //OP2525
     @SubscribeEvent
     public void onPacketSend(PacketEvent.Send event) {
 
