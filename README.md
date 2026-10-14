@@ -47,4 +47,4 @@ This project is mainly focused on:
 ## 1. Clone repository
 
 ```bash
-git clone https://github.com/uxokpro1234/veil.git
+git clone https://github.com/uxokpro1234/Salt-client.git
